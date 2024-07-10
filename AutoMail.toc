@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: AutoMail
+## Notes: Automatically sends mail when adding 12 items and reselects the recipient.
+## Author: Kraven01
+## Version: 1.0
+
+AutoMail.lua
